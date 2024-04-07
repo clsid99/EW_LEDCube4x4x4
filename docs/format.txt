@@ -1,0 +1,8 @@
+‘ƒXƒeƒbƒv” 4Byte
+FFFF
+
+ŠK‘w4ŠK‘w3ŠK‘w2ŠK‘w1Œp‘±ŠÔ(ms)
+11FF22FF33FF44FFAAAAAAAA
+
+1ŠK‘w:2byte 
+Œp‘±ŠÔ:4byte 
